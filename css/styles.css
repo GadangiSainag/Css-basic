@@ -1,0 +1,127 @@
+body {
+  background-color: #E5E3C9;
+  text-align: center;
+  font-family: monospace;
+  font-size: 20px;
+  margin:0;
+}
+
+.mountain {
+  position: relative;
+  width: 100%;
+}
+
+h2 {
+  font-weight: normal;
+
+}
+h3{
+  color: #789395;
+  font-weight:900;
+}
+
+
+#intro {
+  color: #94B49F;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+.intro{
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+
+.cloud1 {
+  width: 175px;
+  position: relative;
+  left: 250px;
+  top: 50px;
+  opacity: 0.8;
+}
+
+.cloud2 {
+  width: 150px;
+  position: relative;
+  top: 50px;
+  right: 200px;
+  opacity: 0.6;
+}
+
+.nam {
+  color: #789395;
+  font-size: 3em;
+}
+
+.top-container {
+  width: 100%;
+  position: relative;
+
+}
+.middle-container{
+  color: #628E90;
+}
+.bottom-container{
+  background-color:#BCCEF8 ;
+  padding:20px 0 20px;
+  width :100%;
+}
+
+.circle-img {
+  padding: 50px;
+  border-radius: 100%;
+  display: inline-block;
+  background-color: #94B49F;
+}
+.skill-row{
+  width: 50%;
+  margin: 0 auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.img-swim{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+.img-vgame{
+  width: 20%;
+  float: right;
+}
+
+hr {
+  border-top: dotted 6px;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  width: 15%;
+  height: 0;
+  border-color: #B4CFB0;
+  margin:100px auto 100px auto;
+}
+.btn {
+  margin-top:100px;
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #94B49F;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+#ftext{
+  padding-bottom: 0;
+  margin-bottom: 0;
+
+}
+
+.btn:hover {
+  background: #789395;
+  text-decoration: none;
+}
+.footer-link{
+  text-decoration: none;
+  color:#ffffff;
+  margin: 0 20px 0;
+
+}
